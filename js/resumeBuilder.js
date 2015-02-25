@@ -121,6 +121,20 @@ var education={
             "dates":"2014",
             "courseUrl":"https://www.udemy.com/build-beautiful-html5-website/",
             "url":"https://www.udemy.com"
+        },
+        {
+            "title":"Object-Oriented JavaScript",
+            "school":"Udacity",
+            "dates":"2014 - 2015",
+            "courseUrl":"https://www.udacity.com/course/ud015",
+            "url":"https://www.udacity.com"
+        },
+        {
+           "title":"HTML5 Canvas",
+           "school":"Udacity",
+           "dates":"2015",
+           "courseUrl":"https://www.udacity.com/course/ud292",
+           "url":"https://www.udacity.com"
         }
     ]
 }
@@ -166,7 +180,11 @@ var work={
     "title":"Sales Agent",
     "location":"Knoxville, TN",
     "dates":"2008 - Present",
-    "description":"I sling policies yo.",
+    "description":"I have written thousands of insurance policies into inception while maintaining above average Quality\
+     Assurance and Issued Business scores. The company has trusted me to train sales counselors and\
+     underwriters in state-supported systems. With these innumerous tasks I have also worked extensively\
+     alongside Project Managers with researching and developing opportunities concerning our system's\
+     functionality, as well as creating training manuals for instructing new hires.",
     "url":"https://www.travelers.com/"
 
     },{
