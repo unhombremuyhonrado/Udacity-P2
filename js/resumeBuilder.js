@@ -11,7 +11,7 @@ var bio = {
     },
     "welcomeMessage": "If it doesn't connect to the internet, then I probably shouldn't be touching it.",
     "skills": [
-        "HTML","CSS", "JavaScript","Python","Java", "PERL","SQL","C#","C++","R","C"
+        "HTML","CSS", "JavaScript","Python"
     ],
     "bioPic":"images/me.jpg"
 }
