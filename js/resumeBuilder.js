@@ -11,7 +11,7 @@ var bio = {
     },
     "welcomeMessage": "If it doesn't connect to the internet, then I probably shouldn't be touching it.",
     "skills": [
-        "HTML","CSS", "JavaScript","Python"
+        "HTML", "CSS", "JavaScript", "Python"
     ],
     "bioPic":"images/me.jpg"
 }
@@ -62,21 +62,6 @@ if(bio.skills.length > 0){
     $("#skills").append(formattedSkill);
     formattedSkill=HTMLskills.replace("%data%",bio.skills[3]);
     $("#skills").append(formattedSkill);
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[4]);
-    $("#skills").append(formattedSkill)
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[5]);
-    $("#skills").append(formattedSkill)
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[6]);
-    $("#skills").append(formattedSkill)
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[7]);
-    $("#skills").append(formattedSkill)
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[8]);
-    $("#skills").append(formattedSkill)
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[9]);
-    $("#skills").append(formattedSkill)
-    formattedSkill=HTMLskills.replace("%data%",bio.skills[10]);
-    $("#skills").append(formattedSkill)
-
 }
 
 
