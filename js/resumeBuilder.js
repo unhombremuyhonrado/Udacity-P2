@@ -246,6 +246,20 @@ var projects={
         "description":"Udacity Nanodegree Project 1 Portfolio",
         "images":["images/meagain.jpg"],
         "url":"http://unhombremuyhonrado.github.io/v1mockup/"
+    },
+    {
+    	"title":"Resume",
+    	"dates":"2014",
+    	"description":"Udacity Nanodegree Project 2 Resume",
+    	"images":["images/p2.jpg"],
+    	"url":"http://unhombremuyhonrado.github.io/Udacity-P2"
+    },
+    {
+    	"title":"Frogger",
+    	"dates":"2015",
+    	"description":"Udacity Nanodegree Project 3 Portfolio",
+    	"images":["images/p3.jpg"],
+    	"url":"http://unhombremuyhonrado.github.io/Udacity-P3/"
     }
     ]
 }
