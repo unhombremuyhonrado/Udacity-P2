@@ -192,7 +192,7 @@ function locationFinder() {
 
 
     var lat = placeData.geometry.location.k;
-    var lon = placeData.geometry.location.B;
+    var lon = placeData.geometry.location.D;
   
   var name = placeData.formatted_address;
    
@@ -220,7 +220,8 @@ function locationFinder() {
 
     google.maps.event.addListener(marker, 'click', function() {
 
-       infoWindow.open(map, marker);
+
+       infoWindow.open(map, marker);
  
 
     });
