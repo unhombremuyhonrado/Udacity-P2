@@ -180,7 +180,7 @@ var work={
     "title":"Sales Agent",
     "location":"Knoxville, TN",
     "dates":"2008 - Present",
-    "description":"I have written thousands of insurance policies into inception while maintaining above average Quality\
+    "description":"I've written thousands of insurance policies into inception while maintaining above average Quality\
      Assurance and Issued Business scores. The company has trusted me to train sales counselors and\
      underwriters in state-supported systems. With these innumerous tasks I have also worked extensively\
      alongside Project Managers with researching and developing opportunities concerning our system's\
@@ -192,21 +192,21 @@ var work={
     "title":"Staff Member",
     "location":"New York[Online]",
     "dates":"2010 - 2012",
-    "description":"I interviewed artists and wrote music reviews for this independent e-zine.",
+    "description":"Interviewed artists and wrote music reviews for this independent e-zine.",
     "url":"http://www.thesilentballet.com/"
     },{
     "employer":"EdFinancial",
     "title":"Loan Consolidator",
     "location":"Knoxville, TN",
     "dates":"2007-2008",
-    "description":"I consolidated hundreds of thousands of dollars of student loans.",
+    "description":"Consolidated hundreds of thousands of dollars in student loans for English and Spanish-speaking students.",
     "url":"https://www.edfinancial.com/home"
     },{
     "employer":"Nova Information Systems",
     "title":"Voice Authorization Operator",
     "location":"Knoxville, TN",
     "dates":"2005 - 2007",
-    "description":"I assited our Spanish-speaking vendors activate their batch of credit cards in merchant services.",
+    "description":"Assisted Spanish-speaking vendors with activating their end-of-day credit card batches.",
     "url":"http://www.elavon.com/"
     }
     ]
