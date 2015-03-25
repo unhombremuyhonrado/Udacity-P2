@@ -257,9 +257,16 @@ var projects={
     {
     	"title":"Frogger",
     	"dates":"2015",
-    	"description":"Udacity Nanodegree Project 3 Portfolio",
+    	"description":"Udacity Nanodegree Project 3 Frogger",
     	"images":["images/p3.jpg"],
     	"url":"http://unhombremuyhonrado.github.io/Udacity-P3/"
+    },
+    {
+    	"title":"Website Optimization",
+    	"dates":"2015",
+    	"description":"Udacity Nanodegree Project 4 Website Optimization",
+    	"images":["images/p4.jpg"],
+    	"url":"http://unhombremuyhonrado.github.io/Udacity-P4/"
     }
     ]
 }
