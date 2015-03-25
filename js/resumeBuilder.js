@@ -135,6 +135,13 @@ var education={
            "dates":"2015",
            "courseUrl":"https://www.udacity.com/course/ud292",
            "url":"https://www.udacity.com"
+        },
+        {
+           "title":"Website Performance Optimization",
+           "school":"Udacity",
+           "dates":"2015",
+           "courseUrl":"https://www.udacity.com/course/ud884",
+           "url":"https://www.udacity.com"
         }
     ]
 }
